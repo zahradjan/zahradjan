@@ -1,13 +1,12 @@
 # Hello! 👋
 
-
 ### I am John Gardener
 
 - 🔭 I'm a Software Engineer / Student 👨‍💻🎧 & Passionate about Web Development and Game Development
 
 - 🌱 I'm learning new languages and creating my own personal projects.
 
-- 📫 How to reach me: use the badges above 😃
+- 📫 How to reach me: use the badges below 😃
 
 ## Some of my Github Stats
 ![John Gardener github stats](https://github-readme-stats.vercel.app/api?username=ocasusMaximus&show_icons=true)
@@ -25,5 +24,13 @@
 <img src="https://programmersought.com/images/897/7fa5e03ded9c3286bff2a5f1f773ab51.gif" width="50">
   
 </p>
+
+
+<i>Let's Connect:</i><br>
+
+<a href="https://www.linkedin.com/in/jan-zahradník-782b58184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/Honza_Zahradnik" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href=https://www.instagram.com/johnnyged" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)](https://stackoverflow.com/users/11673591/saravanan-selvamohan?tab=profile)
 
 ⭐️ From [John Gardener](https://github.com/ocasusMaximus)
