@@ -16,8 +16,9 @@
 <p align="left">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-<img src="https://camo.githubusercontent.com/0524ee6badbfa9cef06a76dc8b494d108bc47365/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f64622f64623363623235386539626262373863353835316130303037343265353436385f773230302e676966" width="50"><img src="https://thumbs.gfycat.com/AmusedWateryEchidna-size_restricted.gif" width="100" > 
-<img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" width="50">
+<img src="https://camo.githubusercontent.com/0524ee6badbfa9cef06a76dc8b494d108bc47365/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f64622f64623363623235386539626262373863353835316130303037343265353436385f773230302e676966" width="50">
+<img src="https://thumbs.gfycat.com/AmusedWateryEchidna-size_restricted.gif" width="100" > 
+
 <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" width="50">
 <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif" width="50">
 <img src="https://programmersought.com/images/897/7fa5e03ded9c3286bff2a5f1f773ab51.gif" width="50">
