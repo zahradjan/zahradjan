@@ -13,7 +13,7 @@
 - 📫 How to reach me: use the badges above 😃
 
 ## Alma mater:
-<img alt="Bachelor Degree" src="https://raw.githubusercontent.com/ocasusMaximus/ocasusMaximus/master/school.png" width="200"/> 
+<img alt="Bachelor Degree" src="https://raw.githubusercontent.com/ocasusMaximus/ocasusMaximus/master/school.png" width="500"/> 
 
 ## Some of my Github Stats
  <p>
