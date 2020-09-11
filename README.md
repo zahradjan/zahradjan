@@ -13,7 +13,7 @@
 - 📫 How to reach me: use the badges above 😃
 
 ## Alma mater:
-<img alt="Bachelor Degree" src="https://raw.githubusercontent.com/pasleto/pasleto/master/school.png" /> |
+<img alt="Bachelor Degree" src="https://raw.githubusercontent.com/pasleto/pasleto/master/school.png" /> 
 
 ## Some of my Github Stats
  <p>
