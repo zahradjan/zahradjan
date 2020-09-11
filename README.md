@@ -12,6 +12,9 @@
 
 - 📫 How to reach me: use the badges above 😃
 
+## Alma mater:
+<img alt="Bachelor Degree" src="https://raw.githubusercontent.com/pasleto/pasleto/master/school.png" /> |
+
 ## Some of my Github Stats
  <p>
   <img alt=John Gardener's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ocasusMaximus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
