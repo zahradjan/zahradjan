@@ -13,7 +13,10 @@
 - 📫 How to reach me: use the badges above 😃
 
 ## Some of my Github Stats
-![John Gardener github stats](https://github-readme-stats.vercel.app/api?username=ocasusMaximus&show_icons=true)
+ <p align="center">
+  <img alt=John Gardener's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ocasusMaximus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
+  <img alt="John Gardener's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocasusMaximus&layout=compact" />
+  </p>
 
 
 ## Languages and Tools:
