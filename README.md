@@ -21,24 +21,49 @@
 
 
 ## Languages and Tools:
-<p align="left" style={{display:"flex", justifyContent:"space-between"}}>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
+<p align="left" >
+<img  height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windows.svg" />
+ &nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linux.svg" />
+  &nbsp;                                                                                             
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ubuntu.svg" />
+   &nbsp;                                                                                                
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/intellijidea.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />                                                                      <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unity.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />                                                                               
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />                                                            
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />                                                                             <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
+    &nbsp;                                                                                                     
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />    
+  &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />  
+  &nbsp; 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />  
+  &nbsp;                                                                                            
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+  &nbsp;  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/typescript.svg" />
+&nbsp;  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest.svg" />                                                                               
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gradle.svg" />                                                                               
+  &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />                                                            
+  &nbsp;  
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
+  &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />                                                                             
+  &nbsp;                                                                                                
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
+  &nbsp;  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dart.svg" />
+  &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />          
+  &nbsp;  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
+  &nbsp;  
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gradle.svg" />                                                                               
+  &nbsp;  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachegroovy.svg" />                                                                          <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" />                        
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" />  
+                                                                          &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" /> 
+  &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unity.svg" />
+
 
 <!--  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <img src="https://camo.githubusercontent.com/0524ee6badbfa9cef06a76dc8b494d108bc47365/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f64622f64623363623235386539626262373863353835316130303037343265353436385f773230302e676966" width="50">
