@@ -15,8 +15,8 @@
 
 ## Some of my Github Stats
  <p>
-  <img alt=John Gardener's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ocasusMaximus&show_icons=true&theme=dark" />
-<!--   <img alt="John Gardener's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocasusMaximus&layout=compact" /> -->
+  <img alt=Jan Zahradnik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zahradjan&show_icons=true&theme=dark" />
+<!--   <img alt="Jan Zahradnik's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahradjan&layout=compact" /> -->
   </p>
 
 
