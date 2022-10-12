@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Honza_Zahradnik" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
-- 🔭 I'm a Software Engineer / Student 👨‍💻🎧 & Passionate about Web Development and Game Development
+- 🔭 I'm a Software Developer 👨‍💻🎧 & Passionate about Web Development and Game Development
 
 - 🌱 I'm learning new languages and creating my own personal projects.
 
