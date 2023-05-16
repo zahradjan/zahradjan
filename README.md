@@ -42,8 +42,12 @@
 &nbsp;  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest.svg" />                                                                               
   &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cypress.svg" />                                                                               
+  &nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />                                                            
   &nbsp;  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg" />                                                            
+  &nbsp; 
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" />
   &nbsp;  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" />                                                                             
