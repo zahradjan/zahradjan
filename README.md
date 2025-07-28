@@ -3,7 +3,6 @@
 ### I am Jan Zahradník
 
 <a href="https://www.linkedin.com/in/jan-zahradník-782b58184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/Honza_Zahradnik" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
 - 🔭 I'm a Software Developer 👨‍💻🎧 & Passionate about Web Development and Game Development
